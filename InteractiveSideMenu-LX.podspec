@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name         = "InteractiveSideMenu"
+  s.name         = "InteractiveSideMenu-LX"
   s.version      = "2.4"
-  s.summary      = "Interactive Side Menu in Swift"
+  s.summary      = "Loxy Interactive Side Menu in Swift"
   s.homepage     = "https://github.com/handsomecode/InteractiveSideMenu"
   s.license      = "Apache 2.0 license"
   s.author       = { "Jose Barros" => "josecarlos.barros@gmail.com" }
